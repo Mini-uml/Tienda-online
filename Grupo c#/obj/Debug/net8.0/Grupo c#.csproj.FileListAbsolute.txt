@@ -1,0 +1,14 @@
+c:\Users\Treasure PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Grupo c#\bin\Debug\net8.0\Grupo c#.exe
+C:\Users\Treasure PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Grupo c#\bin\Debug\net8.0\Grupo c#.deps.json
+C:\Users\Treasure PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Grupo c#\bin\Debug\net8.0\Grupo c#.runtimeconfig.json
+c:\Users\Treasure PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Grupo c#\bin\Debug\net8.0\Grupo c#.dll
+c:\Users\Treasure PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Grupo c#\bin\Debug\net8.0\Grupo c#.pdb
+c:\Users\Treasure PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Grupo c#\obj\Debug\net8.0\Grupo c#.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Treasure PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Grupo c#\obj\Debug\net8.0\Grupo c#.AssemblyInfoInputs.cache
+c:\Users\Treasure PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Grupo c#\obj\Debug\net8.0\Grupo c#.AssemblyInfo.cs
+c:\Users\Treasure PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Grupo c#\obj\Debug\net8.0\Grupo c#.csproj.CoreCompileInputs.cache
+c:\Users\Treasure PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Grupo c#\obj\Debug\net8.0\Grupo c#.dll
+c:\Users\Treasure PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Grupo c#\obj\Debug\net8.0\refint\Grupo c#.dll
+c:\Users\Treasure PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Grupo c#\obj\Debug\net8.0\Grupo c#.pdb
+C:\Users\Treasure PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Grupo c#\obj\Debug\net8.0\Grupo c#.genruntimeconfig.cache
+C:\Users\Treasure PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Grupo c#\obj\Debug\net8.0\ref\Grupo c#.dll

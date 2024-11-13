@@ -1,0 +1,14 @@
+c:\Users\Treasure PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Grupo c#\Grupoc# 2\obj\Debug\net8.0\Grupoc# 2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Treasure PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Grupo c#\Grupoc# 2\obj\Debug\net8.0\Grupoc# 2.AssemblyInfoInputs.cache
+c:\Users\Treasure PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Grupo c#\Grupoc# 2\obj\Debug\net8.0\Grupoc# 2.AssemblyInfo.cs
+c:\Users\Treasure PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Grupo c#\Grupoc# 2\obj\Debug\net8.0\Grupoc# 2.csproj.CoreCompileInputs.cache
+c:\Users\Treasure PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Grupo c#\Grupoc# 2\bin\Debug\net8.0\Grupoc# 2.exe
+C:\Users\Treasure PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Grupo c#\Grupoc# 2\bin\Debug\net8.0\Grupoc# 2.deps.json
+C:\Users\Treasure PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Grupo c#\Grupoc# 2\bin\Debug\net8.0\Grupoc# 2.runtimeconfig.json
+c:\Users\Treasure PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Grupo c#\Grupoc# 2\bin\Debug\net8.0\Grupoc# 2.dll
+c:\Users\Treasure PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Grupo c#\Grupoc# 2\bin\Debug\net8.0\Grupoc# 2.pdb
+c:\Users\Treasure PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Grupo c#\Grupoc# 2\obj\Debug\net8.0\Grupoc# 2.dll
+c:\Users\Treasure PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Grupo c#\Grupoc# 2\obj\Debug\net8.0\refint\Grupoc# 2.dll
+c:\Users\Treasure PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Grupo c#\Grupoc# 2\obj\Debug\net8.0\Grupoc# 2.pdb
+C:\Users\Treasure PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Grupo c#\Grupoc# 2\obj\Debug\net8.0\Grupoc# 2.genruntimeconfig.cache
+C:\Users\Treasure PC\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Grupo c#\Grupoc# 2\obj\Debug\net8.0\ref\Grupoc# 2.dll
